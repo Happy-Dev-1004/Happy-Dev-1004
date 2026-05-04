@@ -1,30 +1,63 @@
-# Hi there👋
-<h1 align='center'>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A020F0,100:6C63FF&height=180&section=header&text=Hi%20there%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+
+<h1>
 Senior Software Engineer focused on building scalable systems, clean architectures, and products that actually ship.
 </h1>
-<h3 align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=A020F0&amp;size=30&amp;center=false&amp;lines=9years+Experience+...;Certified+in+over+50+Skills...;built+over+100+Projects...">
-</h3>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=30&center=true&vCenter=true&width=700&lines=9years+Experience+...;Certified+in+over+50+Skills...;built+over+100+Projects..." />
+
+<br />
+<br />
+
+<a href="https://github.com/Happy-Dev-1004">
+  <img src="https://img.shields.io/badge/GitHub-Happy--Dev--1004-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💼 Senior Software Engineer<img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
+<table>
+<tr>
+<td width="65%">
+
+- 💼 Senior Software Engineer <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
 - 🏗 Designing and building production-grade systems
 - ⚙️ Interested in distributed systems, performance, and backend architecture
 - 🧠 Strong believer in simplicity > cleverness
 - 📈 Always optimizing for maintainability and long-term velocity
 
+</td>
+<td width="35%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Happy-Dev-1004&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=15" />
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🔧 My Skill Set  
-<table><tr><td valign="top" width="33%">
 
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A020F0,100:6C63FF&height=2&section=header" />
+
+</div>
+
+<table>
+<tr>
+<td valign="top" width="33%">
 
 ### Frontend  
+
 <div align="center">  
+
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -63,14 +96,16 @@ Senior Software Engineer focused on building scalable systems, clean architectur
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
 <a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="50" /></a>  
+
 </div>
 
-</td><td valign="top" width="33%">
-
-
+</td>
+<td valign="top" width="33%">
 
 ### Backend  
+
 <div align="center">  
+
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
@@ -103,14 +138,16 @@ Senior Software Engineer focused on building scalable systems, clean architectur
 <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
 <a href="https://codeigniter.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/codeigniter.svg" alt="CodeIgniter" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+
 </div>
 
-</td><td valign="top" width="33%">
-
-
+</td>
+<td valign="top" width="33%">
 
 ### DevOps  
+
 <div align="center">  
+
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
@@ -124,18 +161,45 @@ Senior Software Engineer focused on building scalable systems, clean architectur
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
+
 </div>
 
-</td></tr></table>  
+</td>
+</tr>
+</table>  
 
 ---
 
 ## 🚀 What I Care About
 
-- Writing code that survives version 10
-- Systems that scale without becoming fragile
-- Good developer experience
-- Clear communication over technical ego
+<table>
+<tr>
+<td width="25%" align="center">
+
+### 🧱  
+Writing code that survives version 10
+
+</td>
+<td width="25%" align="center">
+
+### ⚡  
+Systems that scale without becoming fragile
+
+</td>
+<td width="25%" align="center">
+
+### 🛠  
+Good developer experience
+
+</td>
+<td width="25%" align="center">
+
+### 🤝  
+Clear communication over technical ego
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -148,11 +212,38 @@ You can explore my pinned repositories below for:
 - Performance-focused implementations
 - Tooling and automation
 
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Happy-Dev-1004&theme=midnight-purple&hide_border=true&border_radius=15" />
+
+<br />
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Happy-Dev-1004&layout=compact&theme=midnight-purple&hide_border=true&border_radius=15" />
+
+</div>
+
 ---
 
 ## 📫 Connect
 
-- GitHub: https://github.com/Happy-Dev-1004
+<div align="center">
+
+<a href="https://github.com/Happy-Dev-1004">
+  <img src="https://img.shields.io/badge/GitHub-Happy--Dev--1004-A020F0?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br />
+<br />
+
+GitHub: https://github.com/Happy-Dev-1004
+
+</div>
 
 ---
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A020F0&height=120&section=footer" />
+
+</div>
