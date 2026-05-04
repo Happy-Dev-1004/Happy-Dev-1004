@@ -6,9 +6,6 @@ Senior Software Engineer focused on building scalable systems, clean architectur
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=A020F0&amp;size=30&amp;center=false&amp;lines=9years+Experience+...;Certified+in+over+50+Skills...;built+over+100+Projects...">
 </h3>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/BraveTiger0408/BraveTiger0408/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/BraveTiger0408/BraveTiger0408/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
 ---
 
 ## 👨‍💻 About Me
