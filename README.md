@@ -1,4 +1,4 @@
-# Hi, I'm Alexlee👋
+# Hi there👋
 
 ![Banner Image](https://raw.githubusercontent.com/bravetiger0408/bravetiger0408/master/background.svg)
 <h1 align='center'>
