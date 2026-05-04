@@ -1,117 +1,41 @@
 <div align="center">
 
-<svg width="100%" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Snowfall hero header">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#050816"/>
-      <stop offset="45%" stop-color="#0F172A"/>
-      <stop offset="100%" stop-color="#2563EB"/>
-    </linearGradient>
+<!-- Snowfall Header: GitHub-safe, no external image URLs -->
+<table width="100%">
+<tr>
+<td align="center">
 
-    <radialGradient id="glow" cx="50%" cy="45%" r="55%">
-      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.32"/>
-      <stop offset="55%" stop-color="#2563EB" stop-opacity="0.12"/>
-      <stop offset="100%" stop-color="#050816" stop-opacity="0"/>
-    </radialGradient>
+<pre>
+❄        ❅              ❆        ❄              ❅
+     ❆        ❄              ❅        ❆
+❅              ❄        ❆              ❄        ❅
+</pre>
 
-    <filter id="softGlow">
-      <feGaussianBlur stdDeviation="2.5" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
+<h1>Hi there 👋</h1>
 
-    <g id="sharpSnowflake" stroke="#E0F2FE" stroke-width="1.35" stroke-linecap="round" fill="none">
-      <path d="M0 -10 L0 10"/>
-      <path d="M-8.66 -5 L8.66 5"/>
-      <path d="M8.66 -5 L-8.66 5"/>
-      <path d="M0 -10 L-3 -6"/>
-      <path d="M0 -10 L3 -6"/>
-      <path d="M0 10 L-3 6"/>
-      <path d="M0 10 L3 6"/>
-      <path d="M-8.66 -5 L-4 -5.8"/>
-      <path d="M-8.66 -5 L-6.1 -1.1"/>
-      <path d="M8.66 5 L4 5.8"/>
-      <path d="M8.66 5 L6.1 1.1"/>
-      <path d="M8.66 -5 L4 -5.8"/>
-      <path d="M8.66 -5 L6.1 -1.1"/>
-      <path d="M-8.66 5 L-4 5.8"/>
-      <path d="M-8.66 5 L-6.1 1.1"/>
-    </g>
-  </defs>
-
-  <rect width="1200" height="260" rx="0" fill="url(#bg)"/>
-  <rect width="1200" height="260" fill="url(#glow)"/>
-
-  <g opacity="0.18">
-    <circle cx="165" cy="65" r="95" fill="#38BDF8"/>
-    <circle cx="1025" cy="210" r="135" fill="#60A5FA"/>
-  </g>
-
-  <g filter="url(#softGlow)">
-    <text x="600" y="92" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="48" font-weight="800">
-      Hi there 👋
-    </text>
-    <text x="600" y="138" text-anchor="middle" fill="#BAE6FD" font-family="JetBrains Mono, Consolas, monospace" font-size="21" font-weight="600">
-      Senior Software Engineer · Scalable Systems · Clean Architecture
-    </text>
-    <text x="600" y="176" text-anchor="middle" fill="#E0F2FE" font-family="JetBrains Mono, Consolas, monospace" font-size="18">
-      9+ Years Experience · 50+ Certified Skills · 100+ Projects Built
-    </text>
-  </g>
-
-  <g opacity="0.92">
-    <g transform="translate(95 -20)">
-      <animateTransform attributeName="transform" type="translate" values="95 -20; 95 290" dur="13s" repeatCount="indefinite"/>
-      <use href="#sharpSnowflake" transform="scale(0.9) rotate(12)"/>
-    </g>
-    <g transform="translate(210 -50)">
-      <animateTransform attributeName="transform" type="translate" values="210 -50; 210 290" dur="18s" repeatCount="indefinite"/>
-      <use href="#sharpSnowflake" transform="scale(0.55) rotate(42)" opacity="0.75"/>
-    </g>
-    <g transform="translate(360 -35)">
-      <animateTransform attributeName="transform" type="translate" values="360 -35; 360 290" dur="15s" repeatCount="indefinite"/>
-      <use href="#sharpSnowflake" transform="scale(0.72) rotate(4)" opacity="0.85"/>
-    </g>
-    <g transform="translate(515 -65)">
-      <animateTransform attributeName="transform" type="translate" values="515 -65; 515 290" dur="20s" repeatCount="indefinite"/>
-      <use href="#sharpSnowflake" transform="scale(0.48) rotate(70)" opacity="0.65"/>
-    </g>
-    <g transform="translate(675 -25)">
-      <animateTransform attributeName="transform" type="translate" values="675 -25; 675 290" dur="14s" repeatCount="indefinite"/>
-      <use href="#sharpSnowflake" transform="scale(0.82) rotate(26)" opacity="0.88"/>
-    </g>
-    <g transform="translate(830 -55)">
-      <animateTransform attributeName="transform" type="translate" values="830 -55; 830 290" dur="17s" repeatCount="indefinite"/>
-      <use href="#sharpSnowflake" transform="scale(0.58) rotate(91)" opacity="0.72"/>
-    </g>
-    <g transform="translate(1010 -30)">
-      <animateTransform attributeName="transform" type="translate" values="1010 -30; 1010 290" dur="16s" repeatCount="indefinite"/>
-      <use href="#sharpSnowflake" transform="scale(0.76) rotate(18)" opacity="0.84"/>
-    </g>
-    <g transform="translate(1125 -70)">
-      <animateTransform attributeName="transform" type="translate" values="1125 -70; 1125 290" dur="21s" repeatCount="indefinite"/>
-      <use href="#sharpSnowflake" transform="scale(0.5) rotate(63)" opacity="0.66"/>
-    </g>
-  </g>
-
-  <path d="M0 222 C190 252 330 198 520 224 C710 250 850 213 1020 232 C1110 242 1160 238 1200 226 L1200 260 L0 260 Z" fill="#020617" opacity="0.55"/>
-</svg>
-
-<h1>
+<h2>
 Senior Software Engineer focused on building scalable systems, clean architectures, and products that actually ship.
-</h1>
+</h2>
 
 <p>
-<code>9+ years experience</code> · <code>50+ certified skills</code> · <code>100+ projects built</code> · <code>production mindset</code>
+<code>9 years Experience</code> •
+<code>Certified in over 50 Skills</code> •
+<code>Built over 100 Projects</code>
 </p>
 
-<br />
+<p>
+<a href="https://github.com/Happy-Dev-1004">GitHub: Happy-Dev-1004</a>
+</p>
 
-<a href="https://github.com/Happy-Dev-1004">
-  <img src="https://img.shields.io/badge/GitHub-Happy--Dev--1004-0F172A?style=for-the-badge&logo=github&logoColor=white&labelColor=2563EB" />
-</a>
+<pre>
+     ❄              ❅        ❆              ❄
+❆        ❄              ❅        ❆              ❅
+        ❅              ❄        ❆
+</pre>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -122,24 +46,20 @@ Senior Software Engineer focused on building scalable systems, clean architectur
 <table>
 <tr>
 <td align="center" width="25%">
-<h3>📊 9+</h3>
-<p><strong>Years Experience</strong></p>
-<p>Building real products, APIs, dashboards, and production systems.</p>
+<h3>9+</h3>
+<p>Years Experience</p>
 </td>
 <td align="center" width="25%">
-<h3>🧠 50+</h3>
-<p><strong>Certified Skills</strong></p>
-<p>Across frontend, backend, cloud, DevOps, automation, and design tools.</p>
+<h3>50+</h3>
+<p>Certified Skills</p>
 </td>
 <td align="center" width="25%">
-<h3>🚀 100+</h3>
-<p><strong>Projects Built</strong></p>
-<p>From MVPs and SaaS platforms to integrations and internal tools.</p>
+<h3>100+</h3>
+<p>Projects Built</p>
 </td>
 <td align="center" width="25%">
-<h3>🏗 Production</h3>
-<p><strong>System Mindset</strong></p>
-<p>Focused on reliability, maintainability, clarity, and long-term growth.</p>
+<h3>Production</h3>
+<p>System Mindset</p>
 </td>
 </tr>
 </table>
@@ -153,8 +73,6 @@ Senior Software Engineer focused on building scalable systems, clean architectur
 <table>
 <tr>
 <td width="58%" valign="top">
-
-### 🧊 Who I Am
 
 - 💼 Senior Software Engineer
 - 🏗 Designing and building production-grade systems
@@ -228,7 +146,7 @@ Codebases that stay understandable after version 10.
 <tr>
 <td valign="top" width="33%">
 
-### 🎨 Frontend
+### Frontend
 
 <div align="center">
 
@@ -262,7 +180,7 @@ Codebases that stay understandable after version 10.
 </td>
 <td valign="top" width="33%">
 
-### ⚙️ Backend
+### Backend
 
 <div align="center">
 
@@ -295,7 +213,7 @@ Codebases that stay understandable after version 10.
 </td>
 <td valign="top" width="33%">
 
-### ☁️ DevOps
+### DevOps
 
 <div align="center">
 
@@ -407,61 +325,14 @@ Automation workflows, internal tools, scripts, integrations, and productivity-fo
 
 <div align="center">
 
-<a href="https://github.com/Happy-Dev-1004">
-  <img src="https://img.shields.io/badge/GitHub-Happy--Dev--1004-2563EB?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" />
-</a>
+<p>
+<a href="https://github.com/Happy-Dev-1004">GitHub: Happy-Dev-1004</a>
+</p>
 
-<br />
-<br />
-
-GitHub: https://github.com/Happy-Dev-1004
-
-</div>
-
-<br />
-
-<div align="center">
-
-<svg width="100%" height="130" viewBox="0 0 1200 130" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Footer snowfall wave">
-  <defs>
-    <linearGradient id="footerBg" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#2563EB"/>
-      <stop offset="50%" stop-color="#0F172A"/>
-      <stop offset="100%" stop-color="#050816"/>
-    </linearGradient>
-
-    <g id="footerSnow" stroke="#E0F2FE" stroke-width="1.2" stroke-linecap="round" fill="none">
-      <path d="M0 -8 L0 8"/>
-      <path d="M-6.9 -4 L6.9 4"/>
-      <path d="M6.9 -4 L-6.9 4"/>
-      <path d="M0 -8 L-2.3 -5"/>
-      <path d="M0 -8 L2.3 -5"/>
-      <path d="M0 8 L-2.3 5"/>
-      <path d="M0 8 L2.3 5"/>
-    </g>
-  </defs>
-
-  <rect width="1200" height="130" fill="url(#footerBg)"/>
-  <path d="M0 40 C180 10 280 82 460 48 C650 12 770 78 950 50 C1070 32 1140 36 1200 48 L1200 130 L0 130 Z" fill="#020617" opacity="0.62"/>
-
-  <g opacity="0.82">
-    <g transform="translate(140 -15)">
-      <animateTransform attributeName="transform" type="translate" values="140 -15; 140 145" dur="14s" repeatCount="indefinite"/>
-      <use href="#footerSnow" transform="scale(0.75) rotate(20)"/>
-    </g>
-    <g transform="translate(390 -35)">
-      <animateTransform attributeName="transform" type="translate" values="390 -35; 390 145" dur="18s" repeatCount="indefinite"/>
-      <use href="#footerSnow" transform="scale(0.55) rotate(70)" opacity="0.72"/>
-    </g>
-    <g transform="translate(670 -20)">
-      <animateTransform attributeName="transform" type="translate" values="670 -20; 670 145" dur="16s" repeatCount="indefinite"/>
-      <use href="#footerSnow" transform="scale(0.7) rotate(45)" opacity="0.78"/>
-    </g>
-    <g transform="translate(930 -30)">
-      <animateTransform attributeName="transform" type="translate" values="930 -30; 930 145" dur="20s" repeatCount="indefinite"/>
-      <use href="#footerSnow" transform="scale(0.5) rotate(15)" opacity="0.66"/>
-    </g>
-  </g>
-</svg>
+<pre>
+❄        ❅              ❆        ❄              ❅
+     ❆        ❄              ❅        ❆
+❅              ❄        ❆              ❄        ❅
+</pre>
 
 </div>
